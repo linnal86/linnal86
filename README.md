@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I am a licensed real estate agent in the state of Massachusetts. My sister made me get a license to help her buy her first home. If you have questions feel free to contact me:
 
-- 📫 How to reach me: linnali577@gmail.com, linkedin, instagram, twitter
+- 📫 How to reach me: linnali577@gmail.com, [linkedin](https://www.linkedin.com/in/linnal8686557b/), instagram, twitter
