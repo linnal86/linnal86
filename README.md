@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I will add more content once Ifigure out what I want to put here.
-
-
 <!--
 **linnal86/linnal86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
