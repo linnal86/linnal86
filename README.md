@@ -7,12 +7,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... web applications and sprucing up my website (linnali.com)
-- 🌱 I’m currently learning ...nextjs, graphql, typescript --> creating web applications
-- 👯 I’m looking to collaborate on ... anything related to building web applications
-- 🤔 I’m looking for help with ... code reviews for my existing projects (athena flights, tdplaylist)
-- 💬 Ask me about ... setting up a blog with Hugo, I think I have it figured out.
+- 🔭 I’m currently working on ... web applications and converting my website to a nextjs and ghost cms blog (linnali.com).
+- 🌱 I’m currently learning ...nextjs, graphql, typescript --> creating web applications.
+- 👯 I’m looking to collaborate on ... anything related to building web applications, data visualizations, algorithms and data structures.
+- 🤔 I’m looking for help with ... code reviews for my existing projects and practice with coding interviews.
+- 💬 Ask me about ... building webapps with React, Python Pandas data analysis, Algorithms and Data Structures.
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I am a licensed real estate agent in the state of Massachusetts. My sister made me get a license to help her buy her first home. If you have questions feel free to contact me:
+- ⚡ Fun fact: ... I am a licensed real estate agent in the state of Massachusetts. If you have questions feel free to contact me:
 
 - 📫 How to reach me:  [linkedin](https://www.linkedin.com/in/linnal8686557b/), [instagram](https://www.instagram.com/linnal.86/), [twitter](https://twitter.com/linnal86)
